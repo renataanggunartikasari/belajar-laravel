@@ -14,10 +14,10 @@
     {{-- My Styles --}}
     <link rel="stylesheet" href="/css/style.css">
 
-    <title>WPU Blog | {{ $title }}</title>
+    <title>Rere Blog | {{ $title }}</title>
   </head>
   <body>
-
+// mengambil navbar dari halaman partials/navbar.blade.php
     @include('partials.navbar')
     
       <div class="container mt-4">

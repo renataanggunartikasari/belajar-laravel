@@ -1,3 +1,4 @@
+// halaman ini untuk mengambil layouts/main.blade.php
 @extends('layouts.main')
 
   
